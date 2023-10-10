@@ -1,0 +1,58 @@
+﻿@model Hastane.Models.Departman
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<br />
+<div class="page-wrapper">
+    <div class="content">
+        <div class="row">
+            <div class="col-lg-8 offset-lg-2">
+                <h4 class="page-title"><font color="#009EFB"><strong>Tıbbi Birim Düzenle</strong></font></h4>
+            </div>
+        </div>
+        <br />
+        <div class="row">
+            <div class="col-lg-8 offset-lg-2">
+                <form asp-action="Edit" enctype="multipart/form-data" method="post">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                    <input type="hidden" asp-for="DepartmanId" />
+                  
+                    <div class="form-group">
+                        Tıbbi Birim Adı
+
+                        <input asp-for="DepartmanAdı" class="form-control" />
+                        <span asp-validation-for="DepartmanAdı" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group">
+                         Fotoğraf
+                        <input asp-for="DepartmanFotograf" class="form-control" type="hidden" accept="image/*" />
+                        <input id="file" name="file" class="form-control" type="file" accept="image/*" />
+                        <span asp-validation-for="DepartmanFotograf" class="text-danger"></span>
+                        <img src="/img/@Model.DepartmanFotograf" alt="@Model.DepartmanFotograf adlı TıbbiBirim görseli" height="120" />
+                    </div>
+                     <br />
+                    <div class="col-sm-6">
+                        <label>Tıbbi Birim Açıklama</label>
+                        <textarea  cols="60" rows="10" id="myTextarea" asp-for="DepartmanAcıklama"></textarea>
+                        <span asp-validation-for="DepartmanAcıklama" class="text-danger"></span>
+                    </div>
+                   
+                    <div class="m-t-20 text-center">
+                        <button type="submit" value="Save" class="btn btn-primary submit-btn">Kaydet</button> &nbsp;&nbsp;
+                        <button asp-action="Index" class="btn btn-dark submit-btn">Geri Dön</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

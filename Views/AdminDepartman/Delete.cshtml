@@ -1,0 +1,60 @@
+﻿@model Hastane.Models.Departman
+
+@{
+    ViewData["Title"] = "Delete";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+
+
+<br />
+<body>
+	<div class="main-wrapper">
+
+		<div class="page-wrapper">
+			<div class="content">
+				<div class="row">
+					<div class="col-lg-8 offset-lg-2">
+						<h4 class="page-title"><font color="#009EFB"><strong>Bu Tıbbi Birimi Silmek İstediğinize Eminmisiniz?</strong></font></h4>
+					</div>
+				</div>
+				<br />
+				<br />
+				<div class="row">
+					<div class="col-lg-8 offset-lg-2">
+						<form asp-action="Delete" enctype="multipart/form-data" method="post">
+							<div asp-validation-summary="ModelOnly" class="text-danger"></div>
+							<input type="hidden" asp-for="DepartmanId" />
+
+							<div class="row">
+
+								<div class="profile-upload">
+									<div class="upload-img">
+										<img style="height:60px; width:60px; " src="/img/@Model.DepartmanFotograf" alt="@Model.DepartmanFotograf adlı doktor görseli" />
+									</div>
+									<div class="upload-input">
+										Tıbbi Birim Adı
+										<input asp-for="DepartmanAdı" class="form-control" disabled="true" />
+										<span asp-validation-for="DepartmanAdı" class="text-danger"></span>
+									</div>
+								</div>
+
+
+							</div>
+
+							<div class="m-t-20 text-center" style="margin-right:300px;">
+								<button type="submit" value="Delete" class="btn btn-danger submit-btn">Sil</button> &nbsp;&nbsp;
+								<button asp-action="Index" class="btn btn-dark submit-btn">Geri Dön</button>
+							</div>
+
+
+						</form>
+					</div>
+				</div>
+			</div>
+
+		</div>
+	</div>
+
+
+</body>

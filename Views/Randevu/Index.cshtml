@@ -1,0 +1,123 @@
+﻿@model Hastanee.ViewModels.RandevuFormuViewModel
+
+
+<style>
+	.date-picker-container {
+		position: relative;
+	}
+
+	.date-picker-icon {
+		position: absolute;
+		right: 10px;
+		top: 50%;
+		transform: translateY(-50%);
+		cursor: pointer;
+	}
+</style>
+
+
+<section class="page-title bg-1">
+    <div class="overlay"></div>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="block text-center">
+
+                    <h1 class="text-capitalize mb-5 text-lg">Online Randevu</h1>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="appoinment section">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-4">
+                <div class="mt-3">
+                    <div class="feature-icon mb-3">
+                        <i class="icofont-support text-lg"></i>
+                    </div>
+                    <span class="h3">7/24 Bize Ulaşabilirsiniz!</span>
+                    <h2 class="text-color mt-3">0850 000 11 00 </h2>
+                </div>
+            </div>
+
+            <div class="col-lg-8">
+                <div class="appoinment-wrap mt-5 mt-lg-0 pl-lg-5">
+					<h2 class="mb-2 title-color">Online Randevu</h2>
+					<p class="mb-4">Aşağıdaki formu doldurarak size en uygun tarihi ve saat aralığını seçerek randevunuzu kolaylıkla alabilirsiniz. </p>
+					<form id="appointment-form" class="appointment-form" method="post" action="@Url.Action("Index", "Randevu")">
+						<div class="row">
+							<div class="col-lg-6">
+								<div class="form-group">
+									<select class="form-control" id="DepartmanSecimi" asp-for="SeciliKategoriId" required>
+										<option value="">Tıbbi Birim Seçin</option>
+										@foreach (var departman in Model.Departmanlar)
+										{
+											<option value="@departman.DepartmanId">@departman.DepartmanAdı</option>
+										}
+									</select>
+								</div>
+							</div>
+
+
+							<div class="col-lg-6">
+								<div class="form-group">
+									<select class="form-control" id="DoktorSecimi" asp-for="SeciliDoktorId" required>
+										<option value="">Doktor Seçin</option>
+									</select>
+								</div>
+							</div>
+
+							<div class="col-lg-6">
+								<div class="form-group date-picker-container">
+									<input asp-for="SeciliTarih" id="datepicker" type="text" class="form-control" placeholder="Tarih Seçin" required>
+									<i class="icofont-calendar date-picker-icon"></i> 
+								</div>
+							</div>
+
+							<div class="col-lg-6">
+								<div class="form-group">
+									<select asp-for="SeciliSaatId" id="time" class="form-control" required>
+										<option value="">Saat Seçin</option>
+									</select>
+								</div>
+							</div>
+
+							<div class="col-lg-6">
+								<div class="form-group">
+									<input asp-for="TcKimlik" type="text" class="form-control" placeholder="Kimlik Numaranızı girin" required />
+								</div>
+							</div>
+
+							<div class="col-lg-6">
+								<div class="form-group">
+
+									<input asp-for="AdSoyad" type="text" class="form-control" placeholder="Ad Soyad" required />
+								</div>
+							</div>
+
+
+							<div class="col-lg-6">
+								<div class="form-group">
+									<input asp-for="Telefon" type="text" class="form-control" placeholder="Telefon" required />
+								</div>
+							</div>
+						</div>
+
+						<button type="submit" class="btn btn-main btn-round-full">Randevu Oluştur <i class="icofont-simple-right ml-2"></i></button>
+					</form>
+					<br />
+					<div id="success-message" class="d-none">
+
+						Randevunuz başarıyla oluşturuldu!
+					</div>
+                </div>
+            </div>
+        </div>
+    </div>
+   
+</section>
+

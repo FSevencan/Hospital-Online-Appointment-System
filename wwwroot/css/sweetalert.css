@@ -1,0 +1,24 @@
+.swal2-popup {
+    background-color: #223a66 !important;
+    border-radius: 10px !important;
+}
+
+.swal2-title {
+    color: white !important;
+}
+
+.swal2-confirm:hover {
+    background-color: white !important;
+    color: #223a66 !important;
+}
+
+.swal2-confirm {
+    background-color: white !important;
+    color: #223a66 !important;
+    border-radius: 5px !important;
+}
+
+    .swal2-confirm:hover {
+        background-color: #223a66 !important;
+        color: white !important;
+    }

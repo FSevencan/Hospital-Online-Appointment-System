@@ -1,0 +1,68 @@
+﻿@model Hastane.Models.İletisim
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+
+<body>
+    <div class="main-wrapper">
+
+        <div class="page-wrapper">
+            <div class="content">
+                <div class="row">
+                    <div class="col-lg-8 offset-lg-2">
+                        <h4 class="page-title"><font color="#009EFB"><strong>Mesaj</strong></font></h4>
+
+                    </div>
+                </div>
+                <br />
+                <div class="row">
+                    <div class="col-lg-8 offset-lg-2">
+                        <form>
+                           
+                            <div class="row">
+
+                                <div class="col-sm-6">
+                                    <div class="form-group">
+                                        Ad Soyad
+                                        <input asp-for="AdSoyad" class="form-control" disabled="true" />
+                                        
+                                    </div>
+                                </div>
+
+                                <div class="col-sm-6">
+                                    <div class="form-group">
+                                      Mail
+                                        <input asp-for="Mail" class="form-control" disabled="true" />
+                                        
+
+                                    </div>
+                                </div>
+
+                            </div>
+                            <br />
+                            <div class="col-sm-6" style="margin-left:20px;">
+                                Mesaj
+                                <textarea cols="120" rows="10"  asp-for="Mesaj" disabled="true"></textarea>
+                                
+                            </div>
+
+
+                            <br />
+                            <div class="m-t-20 text-center">
+                                
+                                <button asp-action="Index" class="btn btn-dark submit-btn">Geri Dön</button>
+                            </div>
+
+                        </form>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+
+</body>

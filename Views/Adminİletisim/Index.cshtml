@@ -1,0 +1,73 @@
+﻿@model IEnumerable<Hastane.Models.İletisim>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+
+
+<div class="page-wrapper">
+    <div class="content">
+        <div class="row">
+            <div class="col-sm-4 col-3">
+                <h4 class="page-title"><font color="#009EFB"><strong>İletişim & Mesajlar</strong></font></h4>
+            </div>
+            
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="table-responsive">
+                    <table class="table table-border table-striped custom-table mb-0">
+                        <thead>
+                            <tr>
+                                <th>Ad Soyad</th>
+                                <th>Mail</th>
+                                <th>Tarih</th>
+                                <th>Durum</th>
+                                <th class="text-right">Action</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var item in Model) {
+                            <tr>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.AdSoyad)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.Mail)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.Tarih)
+                                </td>
+                                
+                                <td>
+                                   @if (item.OkunmaTarihi!=null)
+                                        {
+                                            <span class="custom-badge status-green">Görüldü</span>
+                                        }
+                                        else
+                                        {
+                                            <span class="custom-badge status-blue">Oku</span>
+                                        }
+                                    
+                                </td>
+
+                                    <td class="text-right">
+                                        <div class="dropdown dropdown-action">
+                                            <a href="#" class="action-icon dropdown-toggle" data-toggle="dropdown" aria-expanded="false"><i class="fa fa-ellipsis-v"></i></a>
+                                            <div class="dropdown-menu dropdown-menu-right">
+                                                <a asp-action="Details" class="dropdown-item" asp-route-id="@item.İletisimId" ><i class="fa fa-eye m-r-5"></i> Read</a>
+                                                <a asp-action="Delete" class="dropdown-item" asp-route-id="@item.İletisimId"><i class="fa fa-trash-o m-r-5"></i> Delete</a>
+                                            </div>
+                                        </div>
+                                    </td>
+                            </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,73 @@
+﻿
+@model IEnumerable<Doktor>
+
+<section class="page-title bg-1">
+    <div class="overlay"></div>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="block text-center">
+                   
+                    <h1 class="text-capitalize mb-5 text-lg">Doktorlarımız</h1>
+
+                   
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<!-- portfolio -->
+<section class="section doctors">
+    <div class="container">
+
+
+        <div class="col-12 text-center  mb-5">
+            <div class="btn-group btn-group-toggle" data-toggle="buttons">
+                <label class="btn @(ViewBag.Filter == "all" ? "active" : "")">
+                    <input type="radio" name="shuffle-filter" value="all" @(ViewBag.Filter == "all" ? "checked='checked'" : "") />Tümü
+                </label>
+                @foreach (var departman in ViewBag.Departmanlar)
+                {
+                    <label class="btn @(ViewBag.Filter == departman.DepartmanAdı ? "active" : "")">
+                        <input type="radio" name="shuffle-filter" value="@departman.DepartmanAdı" @(ViewBag.Filter == departman.DepartmanAdı ? "checked='checked'" : "") />@departman.DepartmanAdı
+                    </label>
+                }
+            </div>
+        </div>
+
+        <div class="row shuffle-wrapper portfolio-gallery">
+            @foreach (var doktor in Model)
+            {
+                <div class="col-lg-3 col-sm-6 col-md-6 mb-4 shuffle-item" data-groups="[&quot;@(doktor.Departman?.DepartmanAdı)&quot;]">
+                    <div class="position-relative doctor-inner-box">
+                        <div class="doctor-profile">
+                            <div class="doctor-img">
+                                <img src="/img/@doktor.DoktorFotograf" alt="doctor-image" class="img-fluid w-100" style="height:270px; width:270px;">
+                            </div>
+                        </div>
+                        <div class="content mt-3">
+                            <h4 class="mb-0"><a href="/Doktor/DoktorDetay/@doktor.DoktorID">@doktor.AdSoyad</a></h4>
+                            <p>@(doktor.Departman?.DepartmanAdı)</p>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</section>
+
+
+        
+ <script>
+
+     // Tıkladığımız departman butonunun active olması için // 
+
+    $(document).ready(function () {
+        $('.btn-group-toggle label').click(function () {
+            $('.btn-group-toggle label').removeClass('active');
+            $(this).addClass('active');
+        });
+    });
+</script>

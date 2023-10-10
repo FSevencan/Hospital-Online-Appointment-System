@@ -1,0 +1,118 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>aspnet-Hastane-42c69201-a93b-4f7c-873c-5fb40a3948e8</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="wwwroot\web\source\**" />
+    <Compile Remove="wwwroot\web\theme\**" />
+    <Content Remove="wwwroot\web\source\**" />
+    <Content Remove="wwwroot\web\theme\**" />
+    <EmbeddedResource Remove="wwwroot\web\source\**" />
+    <EmbeddedResource Remove="wwwroot\web\theme\**" />
+    <None Remove="wwwroot\web\source\**" />
+    <None Remove="wwwroot\web\theme\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Remove="wwwroot\tinymce\tinymcejs.js" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\AdminPanel\assets\fonts\fontawesome-webfont3e6e.svg" />
+    <None Include="wwwroot\AdminPanel\assets\js\app.js" />
+    <None Include="wwwroot\AdminPanel\assets\js\bootstrap-datetimepicker.min.js" />
+    <None Include="wwwroot\AdminPanel\assets\js\bootstrap.min.js" />
+    <None Include="wwwroot\AdminPanel\assets\js\Chart.bundle.js" />
+    <None Include="wwwroot\AdminPanel\assets\js\chart.js" />
+    <None Include="wwwroot\AdminPanel\assets\js\dataTables.bootstrap4.min.js" />
+    <None Include="wwwroot\AdminPanel\assets\js\fullcalendar.min.js" />
+    <None Include="wwwroot\AdminPanel\assets\js\jquery-3.2.1.min.js" />
+    <None Include="wwwroot\AdminPanel\assets\js\jquery.dataTables.min.js" />
+    <None Include="wwwroot\AdminPanel\assets\js\jquery.fullcalendar.js" />
+    <None Include="wwwroot\AdminPanel\assets\js\jquery.slimscroll.js" />
+    <None Include="wwwroot\AdminPanel\assets\js\moment.min.js" />
+    <None Include="wwwroot\AdminPanel\assets\js\popper.min.js" />
+    <None Include="wwwroot\AdminPanel\assets\js\select2.min.js" />
+    <None Include="wwwroot\AdminPanel\assets\js\tagsinput.js" />
+    <None Include="wwwroot\AdminPanel\assets\plugins\light-gallery\fonts\lgd641.svg" />
+    <None Include="wwwroot\AdminPanel\assets\plugins\light-gallery\js\lightgallery-all.min.js" />
+    <None Include="wwwroot\AdminPanel\assets\plugins\summernote\dist\summernote-bs4.min.js" />
+    <None Include="wwwroot\tinymce\icons\default\icons.min.js" />
+    <None Include="wwwroot\tinymce\langs\README.md" />
+    <None Include="wwwroot\tinymce\models\dom\model.min.js" />
+    <None Include="wwwroot\tinymce\plugins\advlist\plugin.min.js" />
+    <None Include="wwwroot\tinymce\plugins\anchor\plugin.min.js" />
+    <None Include="wwwroot\tinymce\plugins\autolink\plugin.min.js" />
+    <None Include="wwwroot\tinymce\plugins\autoresize\plugin.min.js" />
+    <None Include="wwwroot\tinymce\plugins\autosave\plugin.min.js" />
+    <None Include="wwwroot\tinymce\plugins\charmap\plugin.min.js" />
+    <None Include="wwwroot\tinymce\plugins\codesample\plugin.min.js" />
+    <None Include="wwwroot\tinymce\plugins\code\plugin.min.js" />
+    <None Include="wwwroot\tinymce\plugins\directionality\plugin.min.js" />
+    <None Include="wwwroot\tinymce\plugins\emoticons\js\emojiimages.js" />
+    <None Include="wwwroot\tinymce\plugins\emoticons\js\emojiimages.min.js" />
+    <None Include="wwwroot\tinymce\plugins\emoticons\js\emojis.js" />
+    <None Include="wwwroot\tinymce\plugins\emoticons\js\emojis.min.js" />
+    <None Include="wwwroot\tinymce\plugins\emoticons\plugin.min.js" />
+    <None Include="wwwroot\tinymce\plugins\fullscreen\plugin.min.js" />
+    <None Include="wwwroot\tinymce\plugins\help\plugin.min.js" />
+    <None Include="wwwroot\tinymce\plugins\image\plugin.min.js" />
+    <None Include="wwwroot\tinymce\plugins\importcss\plugin.min.js" />
+    <None Include="wwwroot\tinymce\plugins\insertdatetime\plugin.min.js" />
+    <None Include="wwwroot\tinymce\plugins\link\plugin.min.js" />
+    <None Include="wwwroot\tinymce\plugins\lists\plugin.min.js" />
+    <None Include="wwwroot\tinymce\plugins\media\plugin.min.js" />
+    <None Include="wwwroot\tinymce\plugins\nonbreaking\plugin.min.js" />
+    <None Include="wwwroot\tinymce\plugins\pagebreak\plugin.min.js" />
+    <None Include="wwwroot\tinymce\plugins\preview\plugin.min.js" />
+    <None Include="wwwroot\tinymce\plugins\quickbars\plugin.min.js" />
+    <None Include="wwwroot\tinymce\plugins\save\plugin.min.js" />
+    <None Include="wwwroot\tinymce\plugins\searchreplace\plugin.min.js" />
+    <None Include="wwwroot\tinymce\plugins\table\plugin.min.js" />
+    <None Include="wwwroot\tinymce\plugins\template\plugin.min.js" />
+    <None Include="wwwroot\tinymce\plugins\visualblocks\plugin.min.js" />
+    <None Include="wwwroot\tinymce\plugins\visualchars\plugin.min.js" />
+    <None Include="wwwroot\tinymce\plugins\wordcount\plugin.min.js" />
+    <None Include="wwwroot\tinymce\themes\silver\theme.min.js" />
+    <None Include="wwwroot\tinymce\tinymcejs.js" />
+    <None Include="wwwroot\tinymce\tinymce.min.js" />
+    <None Include="wwwroot\web\css\style.css.map" />
+    <None Include="wwwroot\web\js\script.js" />
+    <None Include="wwwroot\web\plugins\bootstrap\bootstrap.min.js" />
+    <None Include="wwwroot\web\plugins\google-map\gmap.js" />
+    <None Include="wwwroot\web\plugins\icofont\fonts\icofont.woff2" />
+    <None Include="wwwroot\web\plugins\jquery\jquery.js" />
+    <None Include="wwwroot\web\plugins\shuffle\shuffle.min.js" />
+    <None Include="wwwroot\web\plugins\slick-carousel\slick\config.rb" />
+    <None Include="wwwroot\web\plugins\slick-carousel\slick\fonts\slick.svg" />
+    <None Include="wwwroot\web\plugins\slick-carousel\slick\slick-theme.less" />
+    <None Include="wwwroot\web\plugins\slick-carousel\slick\slick-theme.scss" />
+    <None Include="wwwroot\web\plugins\slick-carousel\slick\slick.js" />
+    <None Include="wwwroot\web\plugins\slick-carousel\slick\slick.less" />
+    <None Include="wwwroot\web\plugins\slick-carousel\slick\slick.min.js" />
+    <None Include="wwwroot\web\plugins\slick-carousel\slick\slick.scss" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="6.0.15" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="6.0.15" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="6.0.15" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.15" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.15" />
+    <PackageReference Include="Microsoft.TypeScript.MSBuild" Version="5.0.4">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.13" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <TypeScriptCompile Include="wwwroot\tinymce\tinymce.d.ts" />
+  </ItemGroup>
+
+</Project>

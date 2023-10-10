@@ -1,0 +1,1285 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Hastane.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Hastane.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\AdminPanel\\assets\\css\\bootstrap-datetimepicker.min.css",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\css\\bootstrap-datetimepicker.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\AdminPanel\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\AdminPanel\\assets\\css\\dataTables.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\css\\dataTables.bootstrap4.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\AdminPanel\\assets\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\AdminPanel\\assets\\css\\fullcalendar.min.css",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\css\\fullcalendar.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\AdminPanel\\assets\\css\\select2.min.css",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\css\\select2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\AdminPanel\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\AdminPanel\\assets\\css\\tagsinput.css",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\css\\tagsinput.css"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\AdminPanel\\assets\\fonts\\fontawesome-webfont3e6e.eot",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\fonts\\fontawesome-webfont3e6e.eot"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\AdminPanel\\assets\\fonts\\fontawesome-webfont3e6e.html",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\fonts\\fontawesome-webfont3e6e.html"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\AdminPanel\\assets\\fonts\\fontawesome-webfont3e6e.svg",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\fonts\\fontawesome-webfont3e6e.svg"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\AdminPanel\\assets\\fonts\\fontawesome-webfont3e6e.ttf",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\fonts\\fontawesome-webfont3e6e.ttf"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\AdminPanel\\assets\\fonts\\fontawesome-webfont3e6e.woff",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\fonts\\fontawesome-webfont3e6e.woff"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\AdminPanel\\assets\\fonts\\fontawesome-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\fonts\\fontawesome-webfontd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\AdminPanel\\assets\\img\\attachment.png",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\img\\attachment.png"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\AdminPanel\\assets\\img\\blog\\blog-01.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\img\\blog\\blog-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\AdminPanel\\assets\\img\\blog\\blog-02.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\img\\blog\\blog-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\AdminPanel\\assets\\img\\blog\\blog-03.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\img\\blog\\blog-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\AdminPanel\\assets\\img\\blog\\blog-04.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\img\\blog\\blog-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\AdminPanel\\assets\\img\\blog\\blog-thumb-01.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\img\\blog\\blog-thumb-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\AdminPanel\\assets\\img\\blog\\blog-thumb-02.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\img\\blog\\blog-thumb-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\AdminPanel\\assets\\img\\blog\\blog-thumb-03.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\img\\blog\\blog-thumb-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\AdminPanel\\assets\\img\\blog\\blog-thumb-04.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\img\\blog\\blog-thumb-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\AdminPanel\\assets\\img\\calander.png",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\img\\calander.png"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\AdminPanel\\assets\\img\\clock.png",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\img\\clock.png"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\AdminPanel\\assets\\img\\doctor-03.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\img\\doctor-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\AdminPanel\\assets\\img\\doctor-thumb-01.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\img\\doctor-thumb-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\AdminPanel\\assets\\img\\doctor-thumb-02.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\img\\doctor-thumb-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\AdminPanel\\assets\\img\\doctor-thumb-03.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\img\\doctor-thumb-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\AdminPanel\\assets\\img\\doctor-thumb-04.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\img\\doctor-thumb-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\AdminPanel\\assets\\img\\doctor-thumb-05.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\img\\doctor-thumb-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\AdminPanel\\assets\\img\\doctor-thumb-06.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\img\\doctor-thumb-06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\AdminPanel\\assets\\img\\doctor-thumb-07.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\img\\doctor-thumb-07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\AdminPanel\\assets\\img\\doctor-thumb-08.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\img\\doctor-thumb-08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\AdminPanel\\assets\\img\\doctor-thumb-09.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\img\\doctor-thumb-09.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\AdminPanel\\assets\\img\\doctor-thumb-10.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\img\\doctor-thumb-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\AdminPanel\\assets\\img\\doctor-thumb-11.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\img\\doctor-thumb-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\AdminPanel\\assets\\img\\doctor-thumb-12.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\img\\doctor-thumb-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\AdminPanel\\assets\\img\\favicon.ico",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\img\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\AdminPanel\\assets\\img\\logo-dark.png",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\img\\logo-dark.png"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\AdminPanel\\assets\\img\\logo.png",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\AdminPanel\\assets\\img\\patient-thumb-01.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\img\\patient-thumb-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\AdminPanel\\assets\\img\\patient-thumb-02.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\img\\patient-thumb-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\AdminPanel\\assets\\img\\placeholder-thumb.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\img\\placeholder-thumb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\AdminPanel\\assets\\img\\placeholder.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\img\\placeholder.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\AdminPanel\\assets\\img\\sent.png",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\img\\sent.png"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\AdminPanel\\assets\\img\\user-02.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\img\\user-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\AdminPanel\\assets\\img\\user-03.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\img\\user-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\AdminPanel\\assets\\img\\user-04.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\img\\user-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\AdminPanel\\assets\\img\\user-05.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\img\\user-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\AdminPanel\\assets\\img\\user-06.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\img\\user-06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\AdminPanel\\assets\\img\\user.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\img\\user.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\AdminPanel\\assets\\img\\video-call.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\img\\video-call.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\AdminPanel\\assets\\js\\Chart.bundle.js",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\js\\Chart.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\AdminPanel\\assets\\js\\app.js",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\js\\app.js"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\AdminPanel\\assets\\js\\bootstrap-datetimepicker.min.js",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\js\\bootstrap-datetimepicker.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\AdminPanel\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\AdminPanel\\assets\\js\\chart.js",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\js\\chart.js"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\AdminPanel\\assets\\js\\dataTables.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\js\\dataTables.bootstrap4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\AdminPanel\\assets\\js\\fullcalendar.min.js",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\js\\fullcalendar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\AdminPanel\\assets\\js\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\js\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\AdminPanel\\assets\\js\\jquery-ui.min.html",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\js\\jquery-ui.min.html"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\AdminPanel\\assets\\js\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\js\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\AdminPanel\\assets\\js\\jquery.fullcalendar.js",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\js\\jquery.fullcalendar.js"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\AdminPanel\\assets\\js\\jquery.slimscroll.js",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\js\\jquery.slimscroll.js"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\AdminPanel\\assets\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\js\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\AdminPanel\\assets\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\AdminPanel\\assets\\js\\select2.min.js",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\js\\select2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\AdminPanel\\assets\\js\\tagsinput.js",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\js\\tagsinput.js"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\AdminPanel\\assets\\plugins\\light-gallery\\css\\lightgallery.min.css",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\plugins\\light-gallery\\css\\lightgallery.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\AdminPanel\\assets\\plugins\\light-gallery\\fonts\\lgd41d.eot",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\plugins\\light-gallery\\fonts\\lgd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\AdminPanel\\assets\\plugins\\light-gallery\\fonts\\lgd641.eot",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\plugins\\light-gallery\\fonts\\lgd641.eot"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\AdminPanel\\assets\\plugins\\light-gallery\\fonts\\lgd641.svg",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\plugins\\light-gallery\\fonts\\lgd641.svg"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\AdminPanel\\assets\\plugins\\light-gallery\\fonts\\lgd641.ttf",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\plugins\\light-gallery\\fonts\\lgd641.ttf"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\AdminPanel\\assets\\plugins\\light-gallery\\fonts\\lgd641.woff",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\plugins\\light-gallery\\fonts\\lgd641.woff"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\AdminPanel\\assets\\plugins\\light-gallery\\img\\loading.gif",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\plugins\\light-gallery\\img\\loading.gif"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\AdminPanel\\assets\\plugins\\light-gallery\\img\\video-play.png",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\plugins\\light-gallery\\img\\video-play.png"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\AdminPanel\\assets\\plugins\\light-gallery\\img\\vimeo-play.png",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\plugins\\light-gallery\\img\\vimeo-play.png"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\AdminPanel\\assets\\plugins\\light-gallery\\img\\youtube-play.png",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\plugins\\light-gallery\\img\\youtube-play.png"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\AdminPanel\\assets\\plugins\\light-gallery\\js\\lightgallery-all.min.js",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\plugins\\light-gallery\\js\\lightgallery-all.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\AdminPanel\\assets\\plugins\\summernote\\dist\\font\\summernote4c4d.eot",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\plugins\\summernote\\dist\\font\\summernote4c4d.eot"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\AdminPanel\\assets\\plugins\\summernote\\dist\\font\\summernote4c4d.ttf",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\plugins\\summernote\\dist\\font\\summernote4c4d.ttf"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\AdminPanel\\assets\\plugins\\summernote\\dist\\font\\summernote4c4d.woff",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\plugins\\summernote\\dist\\font\\summernote4c4d.woff"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\AdminPanel\\assets\\plugins\\summernote\\dist\\font\\summernoted41d.eot",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\plugins\\summernote\\dist\\font\\summernoted41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\AdminPanel\\assets\\plugins\\summernote\\dist\\summernote-bs4.css",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\plugins\\summernote\\dist\\summernote-bs4.css"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\AdminPanel\\assets\\plugins\\summernote\\dist\\summernote-bs4.min.js",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\plugins\\summernote\\dist\\summernote-bs4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\css\\sweetalert.css",
+      "PackagePath": "staticwebassets\\css\\sweetalert.css"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\img\\0413fa6b-b863-4f76-a7bf-e6151c4e3ee1.jpg",
+      "PackagePath": "staticwebassets\\img\\0413fa6b-b863-4f76-a7bf-e6151c4e3ee1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\img\\04b30b6b-d9f4-4cb1-a644-ed5aae9b2d9a963.jpg",
+      "PackagePath": "staticwebassets\\img\\04b30b6b-d9f4-4cb1-a644-ed5aae9b2d9a963.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\img\\09eccb7b-0c69-475d-9ddf-2ece69dbde08.jpg",
+      "PackagePath": "staticwebassets\\img\\09eccb7b-0c69-475d-9ddf-2ece69dbde08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\img\\0a79170a-5870-4fc0-93ad-ba677e146c2a.jpg",
+      "PackagePath": "staticwebassets\\img\\0a79170a-5870-4fc0-93ad-ba677e146c2a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\img\\1107c20b-eb57-41ec-8363-cf1bd4a9b476.jpg",
+      "PackagePath": "staticwebassets\\img\\1107c20b-eb57-41ec-8363-cf1bd4a9b476.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\img\\128017ea-58c3-400d-8c5f-9246e0d6b901.jpg",
+      "PackagePath": "staticwebassets\\img\\128017ea-58c3-400d-8c5f-9246e0d6b901.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\img\\18b4a6a4-cbbc-4c9c-a7d0-70062ec8dacb.jpg",
+      "PackagePath": "staticwebassets\\img\\18b4a6a4-cbbc-4c9c-a7d0-70062ec8dacb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\img\\18e49fe0-0a7e-4ca9-9f07-e9d4a8c0b877837.jpg",
+      "PackagePath": "staticwebassets\\img\\18e49fe0-0a7e-4ca9-9f07-e9d4a8c0b877837.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\img\\19950f82-27c8-471d-9acd-8187d0e58e8b9.jpg",
+      "PackagePath": "staticwebassets\\img\\19950f82-27c8-471d-9acd-8187d0e58e8b9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\img\\1aad5ae5-a1eb-49a3-bb9f-ff0ec1fe31de653.jpg",
+      "PackagePath": "staticwebassets\\img\\1aad5ae5-a1eb-49a3-bb9f-ff0ec1fe31de653.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\img\\2a6b6a73-67ff-4403-8091-888d34be025c886.jpg",
+      "PackagePath": "staticwebassets\\img\\2a6b6a73-67ff-4403-8091-888d34be025c886.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\img\\3d462bc3-37a4-4ab5-867a-0ce59923dc87341.jpg",
+      "PackagePath": "staticwebassets\\img\\3d462bc3-37a4-4ab5-867a-0ce59923dc87341.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\img\\3ef3d754-98a8-4ddc-8b7c-6eb9c6283949206.jpg",
+      "PackagePath": "staticwebassets\\img\\3ef3d754-98a8-4ddc-8b7c-6eb9c6283949206.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\img\\546ced8f-fcfc-4903-832e-d7a48693a28a.jpg",
+      "PackagePath": "staticwebassets\\img\\546ced8f-fcfc-4903-832e-d7a48693a28a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\img\\66479ccc-43b2-4b9a-b107-3d85030dc247.jpg",
+      "PackagePath": "staticwebassets\\img\\66479ccc-43b2-4b9a-b107-3d85030dc247.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\img\\68882e32-1482-4556-a705-0aabc1bb778a760.jpg",
+      "PackagePath": "staticwebassets\\img\\68882e32-1482-4556-a705-0aabc1bb778a760.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\img\\705d7631-9d07-42a6-9cc9-d9435e1a3036248.jpg",
+      "PackagePath": "staticwebassets\\img\\705d7631-9d07-42a6-9cc9-d9435e1a3036248.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\img\\74368254-49db-4405-840a-752028d23cc125.jpg",
+      "PackagePath": "staticwebassets\\img\\74368254-49db-4405-840a-752028d23cc125.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\img\\81a3b30d-05be-4c3f-9a1b-2e7e9e731dde627.jpg",
+      "PackagePath": "staticwebassets\\img\\81a3b30d-05be-4c3f-9a1b-2e7e9e731dde627.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\img\\91b97ea6-1d12-4c2f-ad26-723b507fffc6.jpg",
+      "PackagePath": "staticwebassets\\img\\91b97ea6-1d12-4c2f-ad26-723b507fffc6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\img\\Hastane.png",
+      "PackagePath": "staticwebassets\\img\\Hastane.png"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\img\\b480d2ab-694a-4c4c-869b-a4e430787deb.png",
+      "PackagePath": "staticwebassets\\img\\b480d2ab-694a-4c4c-869b-a4e430787deb.png"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\img\\c2b931be-772c-4d50-9996-17658f5465ab566.jpg",
+      "PackagePath": "staticwebassets\\img\\c2b931be-772c-4d50-9996-17658f5465ab566.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\img\\c78fadc1-8164-4482-aa85-73fc248f0901449.jpg",
+      "PackagePath": "staticwebassets\\img\\c78fadc1-8164-4482-aa85-73fc248f0901449.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\img\\cbf86a2f-1e24-469e-8313-5e0398e2be90446.jpg",
+      "PackagePath": "staticwebassets\\img\\cbf86a2f-1e24-469e-8313-5e0398e2be90446.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\img\\e11fe77c-f30f-4aac-ab6e-e23524a5f769.jpg",
+      "PackagePath": "staticwebassets\\img\\e11fe77c-f30f-4aac-ab6e-e23524a5f769.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\img\\f0c04e1a-fd6e-4ee9-9d2d-e1619a442796942.jpg",
+      "PackagePath": "staticwebassets\\img\\f0c04e1a-fd6e-4ee9-9d2d-e1619a442796942.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\img\\f8867de6-4e8b-437a-99ef-5f75f6e072a3929.jpg",
+      "PackagePath": "staticwebassets\\img\\f8867de6-4e8b-437a-99ef-5f75f6e072a3929.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\img\\fe5a372b-a6dd-4bf1-874d-62da974dc213528.jpg",
+      "PackagePath": "staticwebassets\\img\\fe5a372b-a6dd-4bf1-874d-62da974dc213528.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\img\\ff58e986-445f-44c5-8ff8-b3623764593287.jpg",
+      "PackagePath": "staticwebassets\\img\\ff58e986-445f-44c5-8ff8-b3623764593287.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\img\\logo-dark.png",
+      "PackagePath": "staticwebassets\\img\\logo-dark.png"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\js\\randevu.js",
+      "PackagePath": "staticwebassets\\js\\randevu.js"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\tinymce\\icons\\default\\icons.min.js",
+      "PackagePath": "staticwebassets\\tinymce\\icons\\default\\icons.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\tinymce\\langs\\README.md",
+      "PackagePath": "staticwebassets\\tinymce\\langs\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\tinymce\\license.txt",
+      "PackagePath": "staticwebassets\\tinymce\\license.txt"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\tinymce\\models\\dom\\model.min.js",
+      "PackagePath": "staticwebassets\\tinymce\\models\\dom\\model.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\tinymce\\plugins\\advlist\\plugin.min.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\advlist\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\tinymce\\plugins\\anchor\\plugin.min.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\anchor\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\tinymce\\plugins\\autolink\\plugin.min.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\autolink\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\tinymce\\plugins\\autoresize\\plugin.min.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\autoresize\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\tinymce\\plugins\\autosave\\plugin.min.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\autosave\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\tinymce\\plugins\\charmap\\plugin.min.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\charmap\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\tinymce\\plugins\\code\\plugin.min.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\code\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\tinymce\\plugins\\codesample\\plugin.min.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\codesample\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\tinymce\\plugins\\directionality\\plugin.min.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\directionality\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\tinymce\\plugins\\emoticons\\js\\emojiimages.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\emoticons\\js\\emojiimages.js"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\tinymce\\plugins\\emoticons\\js\\emojiimages.min.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\emoticons\\js\\emojiimages.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\tinymce\\plugins\\emoticons\\js\\emojis.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\emoticons\\js\\emojis.js"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\tinymce\\plugins\\emoticons\\js\\emojis.min.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\emoticons\\js\\emojis.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\tinymce\\plugins\\emoticons\\plugin.min.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\emoticons\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\tinymce\\plugins\\fullscreen\\plugin.min.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\fullscreen\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\tinymce\\plugins\\help\\plugin.min.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\help\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\tinymce\\plugins\\image\\plugin.min.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\image\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\tinymce\\plugins\\importcss\\plugin.min.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\importcss\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\tinymce\\plugins\\insertdatetime\\plugin.min.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\insertdatetime\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\tinymce\\plugins\\link\\plugin.min.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\link\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\tinymce\\plugins\\lists\\plugin.min.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\lists\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\tinymce\\plugins\\media\\plugin.min.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\media\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\tinymce\\plugins\\nonbreaking\\plugin.min.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\nonbreaking\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\tinymce\\plugins\\pagebreak\\plugin.min.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\pagebreak\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\tinymce\\plugins\\preview\\plugin.min.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\preview\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\tinymce\\plugins\\quickbars\\plugin.min.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\quickbars\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\tinymce\\plugins\\save\\plugin.min.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\save\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\tinymce\\plugins\\searchreplace\\plugin.min.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\searchreplace\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\tinymce\\plugins\\table\\plugin.min.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\table\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\tinymce\\plugins\\template\\plugin.min.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\template\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\tinymce\\plugins\\visualblocks\\plugin.min.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\visualblocks\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\tinymce\\plugins\\visualchars\\plugin.min.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\visualchars\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\tinymce\\plugins\\wordcount\\plugin.min.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\wordcount\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\tinymce\\skins\\content\\dark\\content.min.css",
+      "PackagePath": "staticwebassets\\tinymce\\skins\\content\\dark\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\tinymce\\skins\\content\\default\\content.min.css",
+      "PackagePath": "staticwebassets\\tinymce\\skins\\content\\default\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\tinymce\\skins\\content\\document\\content.min.css",
+      "PackagePath": "staticwebassets\\tinymce\\skins\\content\\document\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\tinymce\\skins\\content\\tinymce-5-dark\\content.min.css",
+      "PackagePath": "staticwebassets\\tinymce\\skins\\content\\tinymce-5-dark\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\tinymce\\skins\\content\\tinymce-5\\content.min.css",
+      "PackagePath": "staticwebassets\\tinymce\\skins\\content\\tinymce-5\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\tinymce\\skins\\content\\writer\\content.min.css",
+      "PackagePath": "staticwebassets\\tinymce\\skins\\content\\writer\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\tinymce\\skins\\ui\\oxide-dark\\content.inline.min.css",
+      "PackagePath": "staticwebassets\\tinymce\\skins\\ui\\oxide-dark\\content.inline.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\tinymce\\skins\\ui\\oxide-dark\\content.min.css",
+      "PackagePath": "staticwebassets\\tinymce\\skins\\ui\\oxide-dark\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\tinymce\\skins\\ui\\oxide-dark\\skin.min.css",
+      "PackagePath": "staticwebassets\\tinymce\\skins\\ui\\oxide-dark\\skin.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.min.css",
+      "PackagePath": "staticwebassets\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\tinymce\\skins\\ui\\oxide\\content.inline.min.css",
+      "PackagePath": "staticwebassets\\tinymce\\skins\\ui\\oxide\\content.inline.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\tinymce\\skins\\ui\\oxide\\content.min.css",
+      "PackagePath": "staticwebassets\\tinymce\\skins\\ui\\oxide\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\tinymce\\skins\\ui\\oxide\\skin.min.css",
+      "PackagePath": "staticwebassets\\tinymce\\skins\\ui\\oxide\\skin.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.min.css",
+      "PackagePath": "staticwebassets\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\tinymce\\skins\\ui\\tinymce-5-dark\\content.inline.min.css",
+      "PackagePath": "staticwebassets\\tinymce\\skins\\ui\\tinymce-5-dark\\content.inline.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\tinymce\\skins\\ui\\tinymce-5-dark\\content.min.css",
+      "PackagePath": "staticwebassets\\tinymce\\skins\\ui\\tinymce-5-dark\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.min.css",
+      "PackagePath": "staticwebassets\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.shadowdom.min.css",
+      "PackagePath": "staticwebassets\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.shadowdom.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\tinymce\\skins\\ui\\tinymce-5\\content.inline.min.css",
+      "PackagePath": "staticwebassets\\tinymce\\skins\\ui\\tinymce-5\\content.inline.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\tinymce\\skins\\ui\\tinymce-5\\content.min.css",
+      "PackagePath": "staticwebassets\\tinymce\\skins\\ui\\tinymce-5\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\tinymce\\skins\\ui\\tinymce-5\\skin.min.css",
+      "PackagePath": "staticwebassets\\tinymce\\skins\\ui\\tinymce-5\\skin.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\tinymce\\skins\\ui\\tinymce-5\\skin.shadowdom.min.css",
+      "PackagePath": "staticwebassets\\tinymce\\skins\\ui\\tinymce-5\\skin.shadowdom.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\tinymce\\themes\\silver\\theme.min.js",
+      "PackagePath": "staticwebassets\\tinymce\\themes\\silver\\theme.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\tinymce\\tinymce.min.js",
+      "PackagePath": "staticwebassets\\tinymce\\tinymce.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\web\\css\\style.css",
+      "PackagePath": "staticwebassets\\web\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\web\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\web\\css\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\web\\images\\about\\05.png",
+      "PackagePath": "staticwebassets\\web\\images\\about\\05.png"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\web\\images\\about\\1.png",
+      "PackagePath": "staticwebassets\\web\\images\\about\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\web\\images\\about\\2.png",
+      "PackagePath": "staticwebassets\\web\\images\\about\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\web\\images\\about\\3.png",
+      "PackagePath": "staticwebassets\\web\\images\\about\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\web\\images\\about\\4.png",
+      "PackagePath": "staticwebassets\\web\\images\\about\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\web\\images\\about\\5.png",
+      "PackagePath": "staticwebassets\\web\\images\\about\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\web\\images\\about\\6.png",
+      "PackagePath": "staticwebassets\\web\\images\\about\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\web\\images\\about\\about-1.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\about\\about-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\web\\images\\about\\about-2.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\about\\about-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\web\\images\\about\\about-3.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\about\\about-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\web\\images\\about\\about-4.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\about\\about-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\web\\images\\about\\img-1.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\about\\img-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\web\\images\\about\\img-2.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\about\\img-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\web\\images\\about\\img-3.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\about\\img-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\web\\images\\about\\sign.png",
+      "PackagePath": "staticwebassets\\web\\images\\about\\sign.png"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\web\\images\\bg\\22.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\bg\\22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\web\\images\\bg\\banner.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\bg\\banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\web\\images\\bg\\bg-2.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\bg\\bg-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\web\\images\\bg\\bg-4.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\bg\\bg-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\web\\images\\bg\\slider-bg-1.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\bg\\slider-bg-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\web\\images\\blog\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\blog\\blog-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\web\\images\\blog\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\blog\\blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\web\\images\\blog\\blog-4.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\blog\\blog-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\web\\images\\blog\\blog-6.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\blog\\blog-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\web\\images\\blog\\blog-7.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\blog\\blog-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\web\\images\\blog\\blog-8.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\blog\\blog-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\web\\images\\blog\\testimonial1.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\blog\\testimonial1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\web\\images\\blog\\testimonial2.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\blog\\testimonial2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\web\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\web\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\web\\images\\logo.png",
+      "PackagePath": "staticwebassets\\web\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\web\\images\\marker.png",
+      "PackagePath": "staticwebassets\\web\\images\\marker.png"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\web\\images\\service\\bg-1.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\service\\bg-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\web\\images\\service\\service-1.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\service\\service-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\web\\images\\service\\service-2.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\service\\service-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\web\\images\\service\\service-3.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\service\\service-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\web\\images\\service\\service-4.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\service\\service-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\web\\images\\service\\service-6.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\service\\service-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\web\\images\\service\\service-8.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\service\\service-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\web\\images\\team\\1.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\team\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\web\\images\\team\\2.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\team\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\web\\images\\team\\3.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\team\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\web\\images\\team\\4.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\team\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\web\\images\\team\\test-thumb1.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\team\\test-thumb1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\web\\images\\team\\test-thumb2.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\team\\test-thumb2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\web\\images\\team\\test-thumb3.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\team\\test-thumb3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\web\\images\\team\\test-thumb4.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\team\\test-thumb4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\web\\images\\user.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\user.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\web\\js\\script.js",
+      "PackagePath": "staticwebassets\\web\\js\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\web\\plugins\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\web\\plugins\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\web\\plugins\\bootstrap\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\web\\plugins\\bootstrap\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\web\\plugins\\google-map\\gmap.js",
+      "PackagePath": "staticwebassets\\web\\plugins\\google-map\\gmap.js"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\web\\plugins\\icofont\\demo.html",
+      "PackagePath": "staticwebassets\\web\\plugins\\icofont\\demo.html"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\web\\plugins\\icofont\\fonts\\icofont.eot",
+      "PackagePath": "staticwebassets\\web\\plugins\\icofont\\fonts\\icofont.eot"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\web\\plugins\\icofont\\fonts\\icofont.ttf",
+      "PackagePath": "staticwebassets\\web\\plugins\\icofont\\fonts\\icofont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\web\\plugins\\icofont\\fonts\\icofont.woff",
+      "PackagePath": "staticwebassets\\web\\plugins\\icofont\\fonts\\icofont.woff"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\web\\plugins\\icofont\\fonts\\icofont.woff2",
+      "PackagePath": "staticwebassets\\web\\plugins\\icofont\\fonts\\icofont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\web\\plugins\\icofont\\icofont.css",
+      "PackagePath": "staticwebassets\\web\\plugins\\icofont\\icofont.css"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\web\\plugins\\icofont\\icofont.min.css",
+      "PackagePath": "staticwebassets\\web\\plugins\\icofont\\icofont.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\web\\plugins\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\web\\plugins\\jquery\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\web\\plugins\\shuffle\\shuffle.min.js",
+      "PackagePath": "staticwebassets\\web\\plugins\\shuffle\\shuffle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\web\\plugins\\slick-carousel\\slick\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\web\\plugins\\slick-carousel\\slick\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\web\\plugins\\slick-carousel\\slick\\config.rb",
+      "PackagePath": "staticwebassets\\web\\plugins\\slick-carousel\\slick\\config.rb"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\web\\plugins\\slick-carousel\\slick\\fonts\\slick.eot",
+      "PackagePath": "staticwebassets\\web\\plugins\\slick-carousel\\slick\\fonts\\slick.eot"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\web\\plugins\\slick-carousel\\slick\\fonts\\slick.svg",
+      "PackagePath": "staticwebassets\\web\\plugins\\slick-carousel\\slick\\fonts\\slick.svg"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\web\\plugins\\slick-carousel\\slick\\fonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\web\\plugins\\slick-carousel\\slick\\fonts\\slick.ttf"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\web\\plugins\\slick-carousel\\slick\\fonts\\slick.woff",
+      "PackagePath": "staticwebassets\\web\\plugins\\slick-carousel\\slick\\fonts\\slick.woff"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\web\\plugins\\slick-carousel\\slick\\slick-theme.css",
+      "PackagePath": "staticwebassets\\web\\plugins\\slick-carousel\\slick\\slick-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\web\\plugins\\slick-carousel\\slick\\slick-theme.less",
+      "PackagePath": "staticwebassets\\web\\plugins\\slick-carousel\\slick\\slick-theme.less"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\web\\plugins\\slick-carousel\\slick\\slick-theme.scss",
+      "PackagePath": "staticwebassets\\web\\plugins\\slick-carousel\\slick\\slick-theme.scss"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\web\\plugins\\slick-carousel\\slick\\slick.css",
+      "PackagePath": "staticwebassets\\web\\plugins\\slick-carousel\\slick\\slick.css"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\web\\plugins\\slick-carousel\\slick\\slick.js",
+      "PackagePath": "staticwebassets\\web\\plugins\\slick-carousel\\slick\\slick.js"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\web\\plugins\\slick-carousel\\slick\\slick.less",
+      "PackagePath": "staticwebassets\\web\\plugins\\slick-carousel\\slick\\slick.less"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\web\\plugins\\slick-carousel\\slick\\slick.min.js",
+      "PackagePath": "staticwebassets\\web\\plugins\\slick-carousel\\slick\\slick.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SEVENCAN\\Desktop\\Bitirdiğim Projeler\\Hastane\\Hastane\\wwwroot\\web\\plugins\\slick-carousel\\slick\\slick.scss",
+      "PackagePath": "staticwebassets\\web\\plugins\\slick-carousel\\slick\\slick.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Hastane.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Hastane.props",
+      "PackagePath": "build\\Hastane.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Hastane.props",
+      "PackagePath": "buildMultiTargeting\\Hastane.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Hastane.props",
+      "PackagePath": "buildTransitive\\Hastane.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

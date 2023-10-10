@@ -1,0 +1,128 @@
+﻿@model Hastane.Models.İletisim
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+<section class="page-title bg-1">
+    <div class="overlay"></div>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="block text-center">
+                    
+                    <h1 class="text-capitalize mb-5 text-lg">İletisim</h1>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- contact form start -->
+
+<section class="section contact-info pb-0">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-4 col-md-6">
+                <div class="contact-block mb-4 mb-lg-0">
+                    <i class="icofont-live-support"></i>
+                    <h5>Telefon Numaramız</h5>
+                    0850 000 11 00
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <div class="contact-block mb-4 mb-lg-0">
+                    <i class="icofont-support-faq"></i>
+                    <h5>Email Adresimiz</h5>
+                    info@hastane.com
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-12">
+                <div class="contact-block mb-4 mb-lg-0">
+                    <i class="icofont-location-pin"></i>
+                    <h5>Adres</h5>
+                    Şişli Merkez Mah. No:36
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<br />
+<br />
+
+<div class="map">
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12032.75295246207!2d28.982301546269984!3d41.06487782312324!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cab685c86f5979%3A0x2519479e0fb398da!2zxZ5pxZ9saS_EsHN0YW5idWw!5e0!3m2!1str!2str!4v1674465161161!5m2!1str!2str" width="100%" height="500" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    <div class="map-inside">
+        <i class="icon_pin"></i>
+
+    </div>
+</div>
+
+
+<section class="contact-form-wrap section">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-6">
+                <div class="section-title text-center">
+                    <h2 class="text-md mb-2">İletişim Formu</h2>
+                    <div class="divider mx-auto my-4"></div>
+                    
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-12 col-md-12 col-sm-12">
+                <form asp-action="Index">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                    <div class="row">
+                        <div class="col-12">
+                            <div class="alert alert-success contact__msg" style="display: none" role="alert">
+                                Your message was sent successfully.
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-lg-6">
+                            <div class="form-group">
+                               
+                                <input asp-for="AdSoyad" class="form-control" placeholder="Ad Soyad*" required/>
+                                <span asp-validation-for="AdSoyad" class="text-danger"></span>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-6">
+                            <div class="form-group">
+                              
+                                <input asp-for="Mail" class="form-control" placeholder="Mail adresiniz*" required />
+                                <span asp-validation-for="Mail" class="text-danger"></span>
+                            </div>
+                        </div>
+
+                       
+                     
+                    </div>
+
+                    <div class="form-group-2 mb-4">
+                        <textarea asp-for="Mesaj" class="form-control" rows="8" placeholder="Mesajınızı İletin*" required></textarea>
+                        <span asp-validation-for="Mesaj" class="text-danger"></span>
+                    </div>
+
+                    <div>
+                        <input class="btn btn-main btn-round-full" name="submit" type="submit" value="Gönder"></input>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

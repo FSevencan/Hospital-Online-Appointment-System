@@ -1,0 +1,423 @@
+﻿@model Hastanee.ViewModels.RandevuFormuViewModel
+
+
+<style>
+	.date-picker-container {
+		position: relative;
+	}
+
+	.date-picker-icon {
+		position: absolute;
+		right: 10px;
+		top: 50%;
+		transform: translateY(-50%);
+		cursor: pointer;
+	}
+</style>
+
+<body id="top">
+
+	<section class="banner">
+		<div class="container">
+			<div class="row">
+				
+				<div class="col-lg-6 col-md-12 col-xl-7">
+					<div class="block">
+						
+						<div class="divider mb-3"></div>
+						<span class="text-uppercase text-sm letter-spacing ">Sağlığınıza özen gösteriyoruz</span>
+						<h1 class="mb-3 mt-3">Sağlık İçin Doğru Adres</h1>
+						
+						<p class="mb-4 pr-5">Güvenilir ve Kaliteli Sağlık Hizmetlerini Sunuyoruz.</p>
+						<div class="btn-container ">
+							<a href="/Randevu/Index"  class="btn btn-main-2 btn-icon btn-round-full">Online Randevu  <i class="icofont-simple-right ml-2  "></i></a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="features">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-12">
+					<div class="feature-block d-lg-flex">
+						<div class="feature-item mb-5 mb-lg-0">
+							<div class="feature-icon mb-4">
+								<i class="icofont-surgeon-alt"></i>
+							</div>7/24<span></span>
+							<h4 class="mb-3">Online Randevu</h4>
+							<p class="mb-4">Hızlı ve kolay bir şekilde randevu almak için online randevuyu kullanabilirsiniz. Size en uygun tarihi ve saati seçerek, hizmetlerimizden daha kolay ve hızlı bir şekilde yararlanabilirsiniz</p>
+							<a href="/Randevu/Index" class="btn btn-main btn-round-full">Randevu Al</a>
+						</div>
+
+						<div class="feature-item mb-5 mb-lg-0">
+							<div class="feature-icon mb-4">
+								<i class="icofont-ui-clock"></i>
+							</div>
+							<span></span>
+							<h4 class="mb-3">Poliklinik  Saatleri</h4>
+							<ul class="w-hours list-unstyled">
+								<li class="d-flex justify-content-between">Pazartesi  :<span>08:00 - 17:00</span></li>
+								<li class="d-flex justify-content-between">Salı :<span>08:00 - 17:00</span></li>
+								<li class="d-flex justify-content-between">Çarşamba  :<span>09:00 - 17:00</span></li>
+								<li class="d-flex justify-content-between">Perşembe  :<span>08:00 - 17:00</span></li>
+								<li class="d-flex justify-content-between">Cuma  :<span>09:00 - 16:00</span></li>
+
+							</ul>
+						</div>
+
+						<div class="feature-item mb-5 mb-lg-0">
+							<div class="feature-icon mb-4">
+								<i class="icofont-support"></i>
+							</div>
+							<span>Çağrı Merkezi</span>
+							<h4 class="mb-3">0850 000 11 00</h4>
+							<p>Randevu almak, acil durumlar için bize ulaşmak ve herhangi bir konuda bağlantı kurmak için 7/24 çağrı merkezimizden bize ulaşabilirsiniz.</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+
+	<section class="section about">
+		<div class="container">
+			<div class="row align-items-center">
+				<div class="col-lg-4 col-sm-6">
+					<div class="about-img">
+						<img src="~/web/images/about/img-1.jpg" alt="" class="img-fluid">
+						<img src="~/web/images/about/img-2.jpg" alt="" class="img-fluid mt-4">
+					</div>
+				</div>
+				<div class="col-lg-4 col-sm-6">
+					<div class="about-img mt-4 mt-lg-0">
+						<img src="~/web/images/about/img-3.jpg" alt="" class="img-fluid">
+					</div>
+				</div>
+				<div class="col-lg-4">
+					<div class="about-content pl-4 mt-4 mt-lg-0">
+						<h2 class="title-color">Tıbbi Birimlerimiz</h2>
+						<p class="mt-4 mb-5">Hastanemizde sizin ve sevdiklerinizin ihtiyaçlarına uygun olarak geniş bir yelpazede tıbbi hizmetler sunuyoruz. Uzman kadromuz tarafından sunulan tedavi seçeneklerimiz ve tıbbi bölümlerimiz hakkında daha fazla bilgi edinmek için tıklayınız. </p>
+
+						<a href="/TıbbiBirimler/Index" class="btn btn-main-2 btn-round-full btn-icon">Tıbbi Birimler<i class="icofont-simple-right ml-3"></i></a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="cta-section ">
+		<div class="container">
+			<div class="cta position-relative">
+				<div class="row">
+					<div class="col-lg-3 col-md-6 col-sm-6">
+						<div class="counter-stat">
+							<i class="icofont-doctor"></i>
+							<span class="h3 counter" data-count="15">0</span>k
+							<p>Mutlu İnsan</p>
+						</div>
+					</div>
+					<div class="col-lg-3 col-md-6 col-sm-6">
+						<div class="counter-stat">
+							<i class="icofont-flag"></i>
+							<span class="h3 counter" data-count="700">0</span>+
+							<p>Ameliyat</p>
+						</div>
+					</div>
+
+					<div class="col-lg-3 col-md-6 col-sm-6">
+						<div class="counter-stat">
+							<i class="icofont-badge"></i>
+							<span class="h3 counter" data-count="40">0</span>+
+							<p>Uzman Doktor</p>
+						</div>
+					</div>
+					<div class="col-lg-3 col-md-6 col-sm-6">
+						<div class="counter-stat">
+							<i class="icofont-globe"></i>
+							<span class="h3 counter" data-count="10">0</span>
+							<p>Şube</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="section service gray-bg">
+		<div class="container">
+			<div class="row justify-content-center">
+				<div class="col-lg-7 text-center">
+					<div class="section-title">
+						<h2>Ödüllü Hasta Bakımı</h2>
+						<div class="divider mx-auto my-4"></div>
+						<p>İnsana saygı, kalite, şeffaflık ve işbirliği ilkelerine dayanarak, hastalarımızın ihtiyaçlarına en iyi şekilde cevap veriyoruz. Her zaman hasta merkezli bir yaklaşım benimsiyor, hastalarımızın konforunu ve güvenliğini en ön planda tutuyoruz.</p>
+					</div>
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="col-lg-4 col-md-6 col-sm-6">
+					<div class="service-item mb-4">
+						<div class="icon d-flex align-items-center">
+							<i class="icofont-laboratory text-lg"></i>
+							<h4 class="mt-3 mb-3">Laboratuvar</h4>
+						</div>
+
+						<div class="content">
+							<p class="mb-4"> Laboratuvarımız, son teknoloji ekipmanlarımız ve uzman kadromuz sayesinde, doğru sonuçlar ve güvenilir raporlar sunar.</p>
+						</div>
+					</div>
+				</div>
+
+				<div class="col-lg-4 col-md-6 col-sm-6">
+					<div class="service-item mb-4">
+						<div class="icon d-flex align-items-center">
+							<i class="icofont-heart-beat-alt text-lg"></i>
+							<h4 class="mt-3 mb-3">Kalp Hastalığı</h4>
+						</div>
+						<div class="content">
+							<p class="mb-4">Hastanemiz, kalp hastalıkları konusunda uzman bir ekip tarafından yönetilmektedir ve en son teknolojik cihazlar ve tedavi yöntemleri ile donatılmıştır.</p>
+						</div>
+					</div>
+				</div>
+
+				<div class="col-lg-4 col-md-6 col-sm-6">
+					<div class="service-item mb-4">
+						<div class="icon d-flex align-items-center">
+							<i class="icofont-tooth text-lg"></i>
+							<h4 class="mt-3 mb-3">Diş Sağlığı</h4>
+						</div>
+						<div class="content">
+							<p class="mb-4"> Hastanemizdeki diş hekimleri, modern teşhis ve tedavi yöntemleriyle ağız ve diş sağlığınızı korumak için buradadır. </p>
+						</div>
+					</div>
+				</div>
+
+
+				<div class="col-lg-4 col-md-6 col-sm-6">
+					<div class="service-item mb-4">
+						<div class="icon d-flex align-items-center">
+							<i class="icofont-crutch text-lg"></i>
+							<h4 class="mt-3 mb-3">Genel Cerrahi</h4>
+						</div>
+
+						<div class="content">
+							<p class="mb-4">Hastanemizde, genel cerrahi uzmanlarımız, son teknoloji cihazlar ve donanımlarla donatılmış modern ameliyathanelerimizde hizmet vermektedir. Her zaman en iyi ve en güvenli tedaviyi sunmak için buradayız.</p>
+						</div>
+					</div>
+				</div>
+
+				<div class="col-lg-4 col-md-6 col-sm-6">
+					<div class="service-item mb-4">
+						<div class="icon d-flex align-items-center">
+							<i class="icofont-brain-alt text-lg"></i>
+							<h4 class="mt-3 mb-3">Nöroloji</h4>
+						</div>
+						<div class="content">
+							<p class="mb-4">Hastanemizde, nöroloji uzmanlarımız tarafından sunulan kapsamlı tedavi seçenekleri ile nörolojik rahatsızlıklarınızın tedavisinde size yardımcı olmak için buradayız.</p>
+						</div>
+					</div>
+				</div>
+
+				<div class="col-lg-4 col-md-6 col-sm-6">
+					<div class="service-item mb-4">
+						<div class="icon d-flex align-items-center">
+							<i class="icofont-dna-alt-1 text-lg"></i>
+							<h4 class="mt-3 mb-3">Jinekoloji</h4>
+						</div>
+						<div class="content">
+							<p class="mb-4">Hastanemiz jinekolojik sağlık hizmetleri konusunda uzmanlaşmış doktorlar ve modern tıbbi cihazlarla donatılmış bir merkez sunar. Kadınların sağlıklı bir yaşam sürdürmelerine yardımcı olmak için, jinekolojik hizmetlerimizde güvenli ve özenli bir yaklaşım benimsiyoruz.</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="section appoinment">
+		<div class="container">
+			<div class="row align-items-center">
+				<div class="col-lg-6 ">
+					<div class="appoinment-content">
+						<img src="~/web/images/about/img-3.jpg" alt="" class="img-fluid">
+						<div class="emergency">
+							<h2 class="text-lg"><i class="icofont-phone-circle text-lg"></i>0850 000 11 00</h2>
+						</div>
+					</div>
+				</div>
+
+				<div class="col-lg-6 col-md-10 ">
+					<div class="appoinment-wrap mt-5 mt-lg-0">
+						<h2 class="mb-2 title-color">Online Randevu</h2>
+						<p class="mb-4">Aşağıdaki formu doldurarak size en uygun tarihi ve saat aralığını seçerek randevunuzu kolaylıkla alabilirsiniz. </p>
+						<form id="appointment-form" class="appointment-form" method="post" action="@Url.Action("Index", "Randevu")">
+							<div class="row">
+								<div class="col-lg-6">
+									<div class="form-group">
+										<select class="form-control" id="DepartmanSecimi" asp-for="SeciliKategoriId" required>
+											<option value="">Tıbbi Birim Seçin</option>
+											@foreach (var departman in Model.Departmanlar)
+											{
+												<option value="@departman.DepartmanId">@departman.DepartmanAdı</option>
+											}
+										</select>
+									</div>
+								</div>
+
+
+								<div class="col-lg-6">
+									<div class="form-group">
+										<select class="form-control" id="DoktorSecimi" asp-for="SeciliDoktorId" required>
+											<option value="">Doktor Seçin</option>
+										</select>
+									</div>
+								</div>
+
+								<div class="col-lg-6">
+									<div class="form-group date-picker-container">
+										<input asp-for="SeciliTarih" id="datepicker" type="text" class="form-control" placeholder="Tarih Seçin" required>
+										<i class="icofont-calendar date-picker-icon"></i>
+									</div>
+								</div>
+
+								<div class="col-lg-6">
+									<div class="form-group">
+										<select asp-for="SeciliSaatId" id="time" class="form-control" required>
+											<option value="">Saat Seçin</option>
+										</select>
+									</div>
+								</div>
+
+								<div class="col-lg-6">
+									<div class="form-group">
+										<input asp-for="TcKimlik" type="text" class="form-control" placeholder="Kimlik Numaranızı girin" required />
+									</div>
+								</div>
+
+								<div class="col-lg-6">
+									<div class="form-group">
+
+										<input asp-for="AdSoyad" type="text" class="form-control" placeholder="Ad Soyad" required />
+									</div>
+								</div>
+
+
+								<div class="col-lg-6">
+									<div class="form-group">
+										<input asp-for="Telefon" type="text" class="form-control" placeholder="Telefon" required />
+									</div>
+								</div>
+							</div>
+
+							<button type="submit" class="btn btn-main btn-round-full">Randevu Oluştur <i class="icofont-simple-right ml-2"></i></button>
+						</form>
+						<br />
+						<div id="success-message" class="d-none">
+
+							Randevunuz başarıyla oluşturuldu!
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="section testimonial-2 gray-bg">
+		<div class="container">
+			<div class="row justify-content-center">
+				<div class="col-lg-7">
+					<div class="section-title text-center">
+						<h2>5000'den fazla Hastaya Hizmet Verdik</h2>
+						<div class="divider mx-auto my-4"></div>
+						<p>Hastanemiz, kurulduğu günden bu yana 5000'den fazla hastaya hizmet vermiştir. Her hasta, bizim için önceliklidir ve kaliteli sağlık hizmeti sunma konusunda kararlıyız. Sağlık sektöründeki son teknolojileri ve en iyi uygulamaları takip ederek, hastalarımızın tedavi sürecinde en iyi sonuçları elde etmelerini sağlıyoruz.</p>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="container">
+			<div class="row align-items-center">
+				<div class="col-lg-12 testimonial-wrap-2">
+					<div class="testimonial-block style-2  gray-bg">
+						<i class="icofont-quote-right"></i>
+
+						<div class="testimonial-thumb">
+							<img src="~/web/images/user.jpg" alt="" class="img-fluid">
+						</div>
+
+						<div class="client-info ">
+							<h4>Hastanenizin Personeli Gerçekten Harika Minnettarım!</h4>
+							<span>Dilara Keskin</span>
+							<p>
+								THastanenizdeki tedavim sırasında, doktorlarım, hemşirelerim ve diğer sağlık personeli gerçekten harikaydı. Bana her zaman nazik davrandılar ve her sorumla ilgilendiler. Şimdi daha iyi hissediyorum ve bu hastaneye minnettarım.
+							</p>
+						</div>
+					</div>
+
+					<div class="testimonial-block style-2  gray-bg">
+						<div class="testimonial-thumb">
+							<img src="~/web/images/user.jpg" alt="" class="img-fluid">
+						</div>
+
+						<div class="client-info">
+							<h4>Bilgili Doktorlar ve Nazik Hemşirelerle Mucizevi Tedavi</h4>
+							<span>Mert Derelioğlu</span>
+							<p>
+								Çok uzun zamandır sağlık sorunlarıyla uğraşıyordum ve bu hastanede tedavi görmeye karar verdim. Bu hastanede yaptığım tedavi benim için gerçekten mucizevi oldu. Doktorlarım çok bilgili ve tecrübeli, hemşirelerim çok nazikti. 
+							</p>
+						</div>
+
+						<i class="icofont-quote-right"></i>
+					</div>
+
+					<div class="testimonial-block style-2  gray-bg">
+						<div class="testimonial-thumb">
+							<img src="~/web/images/user.jpg" alt="" class="img-fluid">
+						</div>
+
+						<div class="client-info">
+							<h4>Mükemmel Hizmet ve Modern Tesislerle Harika Bir Deneyim!</h4>
+							<span>Seyhan Korkmaz</span>
+							<p>
+								Bu hastanede gerçekten harika bir deneyim yaşadım. Tedavim boyunca tüm sağlık personeli, benimle çok ilgilendiler ve beni rahatlatmak için ellerinden geleni yaptılar. Hastanenin modern tesisleri ve teknolojik altyapısı da gerçekten etkileyiciydi. 
+							</p>
+						</div>
+
+						<i class="icofont-quote-right"></i>
+					</div>
+
+					<div class="testimonial-block style-2  gray-bg">
+						<div class="testimonial-thumb">
+							<img src="~/web/images/user.jpg" alt="" class="img-fluid">
+						</div>
+
+						<div class="client-info">
+							<h4>Uzman Doktorlar ve Sabırlı Hasta Bakımı</h4>
+							<span>Ayşe Çelik</span>
+							<p class="mt-4">
+								Hastanenizdeki deneyimim mükemmeldi. Personel, güler yüzlü ve yardımseverdi. Doktorum, konusunda uzman ve sabırlıydı. Tüm süreç boyunca benimle ilgilendiler ve herhangi bir soru sorduğumda dikkatlice cevap verdiler. Kesinlikle herkese tavsiye ederim!
+							</p>
+						</div>
+						<i class="icofont-quote-right"></i>
+					</div>
+
+					
+				</div>
+			</div>
+		</div>
+	</section>
+
+
+	<br />
+	<br />
+	<br />
+	<br />
+	<br />
+
+
+</body>
+
+
+
+
+
+

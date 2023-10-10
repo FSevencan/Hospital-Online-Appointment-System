@@ -1,0 +1,40 @@
+﻿
+@model IEnumerable<Departman>
+
+<section class="page-title bg-1">
+	<div class="overlay"></div>
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12">
+				<div class="block text-center">
+					
+					<h1 class="text-capitalize mb-5 text-lg">Tıbbi Birimler</h1>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+
+<section class="section service-2">
+	<div class="container">
+		
+					
+		<div class="row">
+			@foreach (var tıbbiBirimler in Model)
+			{
+			<div class="col-lg-4 col-md-6 ">
+				<div class="department-block mb-5">
+						<a href="/TıbbiBirimler/TıbbiBirimDetay/@tıbbiBirimler.DepartmanId"><img src="/img/@tıbbiBirimler.DepartmanFotograf" alt="" class="img-fluid w-100"></a>
+					<div class="content">
+					  <a href="/TıbbiBirimler/TıbbiBirimDetay/@tıbbiBirimler.DepartmanId"><h4 class="mt-4 mb-2 title-color">@tıbbiBirimler.DepartmanAdı</h4></a>
+						
+					</div>
+				</div>
+			</div>
+			}
+		</div>
+		
+	</div>
+</section>

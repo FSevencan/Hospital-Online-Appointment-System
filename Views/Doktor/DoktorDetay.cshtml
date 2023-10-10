@@ -1,0 +1,75 @@
+﻿@model IEnumerable<Doktor>
+
+	@foreach (var baslik in Model.Take(1))
+{
+	
+<section class="page-title bg-1">
+	<div class="overlay"></div>
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12">
+				<div class="block text-center">
+					
+					<h1 class="text-capitalize mb-5 text-lg">@baslik.AdSoyad</h1>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+}
+
+<section class="section doctor-single">
+	<div class="container">
+		<div class="row">
+			@foreach (var doktordt in Model)
+			{
+				
+			
+			<div class="col-lg-4 col-md-6">
+				<div class="doctor-img-block">
+						<img src="/img/@doktordt.DoktorFotograf" alt="" class="img-fluid w-100" style="height:300px; width:300px;">
+
+					<div class="info-block mt-4">
+						<h4 class="mb-0">@doktordt.AdSoyad</h4>
+						<p>@doktordt.Departman.DepartmanAdı</p>
+
+						<ul class="list-inline mt-4 doctor-social-links">
+							<li class="list-inline-item"><a href="#!"><i class="icofont-facebook"></i></a></li>
+							<li class="list-inline-item"><a href="#!"><i class="icofont-twitter"></i></a></li>
+							<li class="list-inline-item"><a href="#!"><i class="icofont-skype"></i></a></li>
+							<li class="list-inline-item"><a href="#!"><i class="icofont-linkedin"></i></a></li>
+							<li class="list-inline-item"><a href="#!"><i class="icofont-pinterest"></i></a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-lg-8 col-md-6">
+				<div class="doctor-details mt-4 mt-lg-0">
+					<h2 class="text-md">Doktorumuzun Özgeçmişi</h2>
+					<div class="divider my-4"></div>
+					<p>
+							@Html.Raw(@doktordt.DoktorAcıklama)
+					</p>
+					
+
+					<a href="/Randevu/Index" class="btn btn-main-2 btn-round-full mt-3">
+						Randevu Al<i class="icofont-simple-right ml-2  "></i>
+					</a>
+				</div>
+			</div>
+			}
+		</div>
+	</div>
+</section>
+
+
+<br />
+<br />
+<br />
+<br />
+<br />
+
+

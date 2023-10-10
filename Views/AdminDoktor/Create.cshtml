@@ -1,0 +1,79 @@
+﻿@model Hastane.Models.Doktor
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+
+<body>
+    <div class="main-wrapper">
+
+        <div class="page-wrapper">
+            <div class="content">
+                <div class="row">
+                    <div class="col-lg-8 offset-lg-2">
+                        <h4 class="page-title"><font color="#009EFB"><strong>Yeni Doktor Ekle</strong></font></h4>
+
+                    </div>
+                </div>
+                <br />
+                <div class="row">
+                    <div class="col-lg-8 offset-lg-2">
+                        <form asp-action="Create" enctype="multipart/form-data" method="post">
+                            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                            <div class="row">
+
+                                <div class="col-sm-6">
+                                    <div class="form-group">
+                                         Ad Soyad
+                                        <input asp-for="AdSoyad" class="form-control" requared />
+                                        <span asp-validation-for="AdSoyad" class="text-danger" ></span>
+                                    </div>
+                                </div>
+
+                                <div class="col-sm-6">
+                                    <div class="form-group">
+                                        Tıbbi Birim
+                                        <select asp-for="DepartmanId" class="form-control" asp-items="ViewBag.DepartmanId"></select>
+                                       
+                                    </div>
+                                </div>
+
+                                <div class="col-sm-6">
+                                           
+                                     <div class="form-group">
+                                          Fotoğraf
+                                         <input asp-for="DoktorFotograf" class="form-control" type="file" accept="image/*" />
+                                        <span asp-validation-for="DoktorFotograf" class="text-danger"></span>
+                                     </div>
+                                    
+                                </div>
+
+                            </div>
+                            <br />
+                            <div class="col-sm-6">
+                                <label>Doktor Özgeçmişi</label>
+                                <textarea cols="60" rows="10" id="myTextarea" asp-for="DoktorAcıklama"></textarea>
+                                <span asp-validation-for="DoktorAcıklama" class="text-danger"></span>
+                            </div>
+
+
+                            <br />
+                            <div class="m-t-20 text-center">
+                                <button type="submit" value="Save" class="btn btn-primary submit-btn">Kaydet</button> &nbsp;&nbsp;
+                                <button asp-action="Index" class="btn btn-dark submit-btn">Geri Dön</button>
+                            </div>
+                            
+                        </form>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+
+</body>
+

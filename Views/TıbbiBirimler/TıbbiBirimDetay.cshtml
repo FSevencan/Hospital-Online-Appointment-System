@@ -1,0 +1,89 @@
+﻿@model IEnumerable<Departman>
+
+
+<section class="page-title bg-1">
+	<div class="overlay"></div>
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12">
+				<div class="block text-center">
+					@foreach (var item in Model)
+					{
+						<h1 class="text-capitalize mb-5 text-lg">@item.DepartmanAdı</h1>
+					}
+					
+
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+
+<section class="section department-single" style="margin-left:100px;">
+	<div class="container">
+		@foreach (var birimDetay in Model)
+		{
+		<div class="row">
+
+			<div class="col-lg-12">
+				<div class="department-img">
+					<img src="/img/@birimDetay.DepartmanFotograf" alt="" class="img-fluid" >
+				</div>
+			</div>
+		</div>
+
+		<div class="row">
+			
+				
+			<div class="col-lg-8">
+				<div class="department-content mt-5">
+					<h3 class="text-md">@birimDetay.DepartmanAdı</h3>
+					<div class="divider my-4"></div>
+					<p class="lead">@Html.Raw(@birimDetay.DepartmanAcıklama)</p>
+
+					<br>
+				   <a href="/Randevu/Index" class="btn btn-main-2 btn-round-full">Randevu Al<i class="icofont-simple-right ml-2  "></i></a>
+				</div>
+			</div>
+			
+
+			
+		</div>
+		}
+	</div >
+</section  >
+
+<section class="section team" >
+	<div class="container" >
+		<div class="row justify-content-center">
+			<div class="col-lg-6">
+				<div class="section-title text-center">
+					<h2 class="mb-4">Hekimlerimiz</h2>
+					<div class="divider mx-auto my-4"></div>
+					
+				</div>
+			</div>
+		</div>
+
+		<div class="row">
+
+			@foreach (var hekimler in ((List<Doktor>)ViewData["Hekimlerimiz"]))
+		   {
+
+			<div class="col-lg-3 col-md-6 col-sm-6">
+				<div class="team-block mb-5 mb-lg-0">
+						<img src="/img/@hekimler.DoktorFotograf" alt="" class="img-fluid w-100" style="height:270px; width:270px;">
+
+					<div class="content">
+						<h4 class="mt-4 mb-0"><a href="/Doktor/DoktorDetay/@hekimler.DoktorID">@hekimler.AdSoyad</a></h4>
+						<p>@hekimler.Departman.DepartmanAdı</p>
+					</div>
+				</div>
+			</div>
+
+			}
+			
+		</div>
+	</div>
+</section>
